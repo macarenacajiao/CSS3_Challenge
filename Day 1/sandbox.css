@@ -190,7 +190,7 @@
 }
 
 .gradient-button-1:hover{
-    background-image:linear-gradient (to top right, orangered, yellow);
+    background-image:linear-gradient(to top right, orangered, yellow);
     color: white;
 }
 
@@ -212,7 +212,7 @@
 }
 
 .gradient-button-2:hover{
-    background-image: linear-gradient (to right, orangered, yellow);
+    background-image: linear-gradient(to right, orangered, yellow);
     color: white;
     border-right-style: none; /*cuando pasabamos por encima el mouse, el hover marcaba una línea naranja en el borde derecho, esta lo quita*/
 }
